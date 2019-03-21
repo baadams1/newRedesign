@@ -1,0 +1,6 @@
+.entirePage {
+background-color: red;
+}
+#v-control{
+    width: -webkit-fill-available;
+}
